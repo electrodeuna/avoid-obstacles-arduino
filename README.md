@@ -5,3 +5,10 @@ Proyecto para construir un robot con Arduino capaz de esquivar obstáculos. Util
 ## Video
 
 https://www.youtube.com/watch?v=tasUokSKWOY
+
+## Componentes
+
+- 1 Arduino Nano
+- 4 Motores
+- 1 Sensor Ultrasónico
+- 1 Servomotor
