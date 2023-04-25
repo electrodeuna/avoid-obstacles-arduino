@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=tasUokSKWOY
 - 4 Motores
 - 1 Sensor Ultrasónico
 - 1 Servomotor
+- 1 Chasis para auto/carro
+- 1 Bateria
+- 1 Cables
