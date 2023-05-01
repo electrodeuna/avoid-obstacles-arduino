@@ -10,10 +10,11 @@ https://www.youtube.com/watch?v=tasUokSKWOY
 
 ## Componentes
 
-- 1 Arduino Nano
-- 4 Motores
-- 1 Sensor Ultrasónico
-- 1 Servomotor
-- 1 Chasis para auto/carro
-- 1 Bateria
-- 1 Cables
+- Arduino Nano
+- Puente H L298N
+- Motores x4
+- Sensor Ultrasónico
+- Servomotor
+- Chasis para auto/carro
+- Bateria x2
+- Cables
